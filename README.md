@@ -33,3 +33,4 @@ Below are some examples of different cases the function should handle. Pay close
 Do not import any Python libraries. Assume that the start times are valid times. The minutes in the duration time will be a whole number less than 60, but the hour can be any whole number.
 
 #### **Full project [here](https://replit.com/@SlightlySaltedT/boilerplate-time-calculator).**
+#### **Assignment [here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator).**
